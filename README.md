@@ -1,6 +1,11 @@
 # rtfm.academy
 A compendium of essential information
 
+
+
+# Heroku
+https://git.heroku.com/rtmfacademy.git
+
 # Platform for Developers to meetup/collaborate/assist with one another
 
 # Homepage
@@ -20,3 +25,4 @@ Community posts
 
  * Assistance
   - Asking for fellow devs for assistance on bugs, projects, errors, etc. (almost like a social         platorm related to stackoverflow)
+
