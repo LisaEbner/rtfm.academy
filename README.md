@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-A compendium of essential
-=======
 # rtfm.academy
 A compendium of essential information
 
@@ -29,4 +26,3 @@ Community posts
  * Assistance
   - Asking for fellow devs for assistance on bugs, projects, errors, etc. (almost like a social         platorm related to stackoverflow)
 
->>>>>>> 2d6369a1d877df736f5f54d05920bcea5033a26f
