@@ -11,7 +11,7 @@ module.exports = {
   },
   test: {
     username: "root",
-    password: null,
+    password: process.env.DB_PASS,
     database: "testdb",
     host: "localhost",
     dialect: "mysql",
